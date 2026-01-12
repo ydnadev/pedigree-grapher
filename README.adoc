@@ -1,10 +1,12 @@
 = Pedigree Grapher
 
 == Author
-Neel Raj 2025
+Neel Raj, 2025
 
+== Description
 Build a simple pedigree from dataframe.
 
+== Usage
 *Required fields*
 
 image::/images/fields.png[Fields]
